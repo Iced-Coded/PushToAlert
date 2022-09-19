@@ -8,3 +8,7 @@ A simple, yet, useful website that could be used to alert users about emergencie
 
 - Alerting users
 - Using Push notifications to alert users
+
+## Disclaimer
+
+e-Ukraine font is made by Diia, I don't own this font and all rights are going to Ministry of Digital Transformation of Ukraine.
