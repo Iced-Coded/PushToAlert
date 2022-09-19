@@ -11,4 +11,4 @@ A simple, yet, useful website that could be used to alert users about emergencie
 
 ## Disclaimer
 
-e-Ukraine font is made by Diia, I don't own this font and all rights are going to Ministry of Digital Transformation of Ukraine.
+e-Ukraine font is made by Diia (App by Ministry of Digital Transformation of Ukraine), I don't own this font and all rights are going to Ministry of Digital Transformation of Ukraine.
