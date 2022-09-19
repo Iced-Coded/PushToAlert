@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'e-Ukraine';
+    src: url('src/fonts/e-UkraineHead-Bold.otf') format('otf');
+    font-weight: 1000;
+    font-style: normal;
+    font-display: swap;
+}
+
+.clear {
+    color: #32cd32;
+}
+
+.alert {
+    color: #de1738;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#status {
+    transition: color, 0.5s;
+    font-family: 'e-Ukraine';
+    font-weight: 1000;
+}
+
+.button {
+    background-color: #dbd9d9;
+    width: 13%;
+    height: 100%;
+    border-radius: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2.5%;
+    transition: color, 0.5s;
+}
+
+.button:hover {
+    filter: contrast(75%);
+}
+
+#status:hover {
+    filter: contrast(55%);
+}
+
+#buttons-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: 8%;
+}
+
+#main-container {
+    flex-direction: column;
+    background-color: #e6e6e6;
+    width: 40vw;
+    height: 98vh;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#noright {
+    margin-right: 0;
+}
